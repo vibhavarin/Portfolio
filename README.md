@@ -3,6 +3,8 @@
 
 
 ABOUT ME
+
+
 I am a positive and hardworking person. I have a Master's degree in Computer Applications. Due to personal reasons, I have not been able to work until now. I am now returning to the job market, have learned software testing, updated my previous skills, and am practicing the techniques and tools intensively. My goal is to work as a mid-level software tester in two years and gain practical experience with an operational product.
 
 
