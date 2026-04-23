@@ -90,3 +90,6 @@ Worked on the ShoppersStack website, created a shopper account, and tested vario
 Fireflink AI
 
 Used the ShoppersStack website again: created shopper login, added products to the cart, and edited/deleted profile information.
+
+
+
